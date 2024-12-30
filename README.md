@@ -1,5 +1,4 @@
-# Dual-Systems-Imbalance
-# Personalized Brain Morphometric Feature as a Transdiagnostic Predictor of Psychopathology
+# Dual-Systems-Imbalance:Personalized Brain Morphometric Feature as a Transdiagnostic Predictor of Psychopathology
 
 This repository contains the source code and supplementary materials for the paper:  
 **Personalized Brain Morphometric Feature as a Transdiagnostic Predictor of Psychopathology: Insights from the Dual Systems Models**
